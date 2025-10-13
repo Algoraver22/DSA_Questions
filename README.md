@@ -1,1 +1,18 @@
-# DSA Questions Solved ✅ This repository contains only the DSA problems that I have solved so far. ## 📂 Problems List (Topic-wise) ### Arrays 1. Two Sum 2. 3 Sum ### Greedy 1. Non-overlapping Intervals ## 🔗 Notes - Solutions are implemented in C++.
+this code # DSA Questions Solved ✅
+
+This repository contains only the DSA problems that I have solved so far.
+
+## 📂 Problems List (Topic-wise)
+
+### Arrays
+1. Two Sum
+2. 3 Sum
+
+### Greedy
+1. Non-overlapping Intervals
+
+## 🔗 Notes
+- Solutions are implemented in C++.
+
+
+
